@@ -1,6 +1,3 @@
-# cognitive-load-detection-EEG-GSR
-Machine Learning-based cognitive load detection using EEG and GSR signals for classifying mental workload levels.
-
 # Cognitive Load Detection Using EEG and GSR
 
 ## 📌 Project Overview
@@ -73,8 +70,6 @@ To develop a Machine Learning-based system that can detect and classify cognitiv
 The project uses physiological signal data containing EEG and GSR measurements along with cognitive load labels.
 
 The dataset is not included in this repository because of dataset size/licensing or data-sharing restrictions.
-
-Please refer to `data/README.md` for information about the dataset and how to obtain it.
 
 ---
 
